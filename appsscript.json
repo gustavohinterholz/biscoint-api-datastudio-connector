@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "libraries": []
+  },
+  "dataStudio": {
+    "name": "Biscoint API Ticker",
+    "logoUrl": "https://biscoint.io/images/biscoint-logo.svg",
+    "company": "Gustavo Hinterholz",
+    "companyUrl": "https://developers.google.com/datastudio/",
+    "addonUrl": "https://github.com/googledatastudio/community-connectors/tree/master/npm-downloads#readme",
+    "supportUrl": "gluis.holz@gmail.com",
+    "description": "Get public data from Biscoint.io",
+    "sources": [
+      "npm"
+    ],
+    "templates": {
+      "default": "c5b4a9a7-2af9-40f6-b018-4ad47e0487fe"
+    }
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "exceptionLogging": "NONE",
+  "runtimeVersion": "V8"
+}
